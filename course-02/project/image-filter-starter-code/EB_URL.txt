@@ -1,0 +1,1 @@
+EB_URL = image-filter-prod2.us-east-1.elasticbeanstalk.com
