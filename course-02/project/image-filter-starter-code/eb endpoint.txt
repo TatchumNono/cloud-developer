@@ -1,2 +1,0 @@
-http://{{HOST}}/filteredimage?image_url=https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_960_720.jpg
-HOST = image-filter-prod2.us-east-1.elasticbeanstalk.com
